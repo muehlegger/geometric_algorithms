@@ -1,0 +1,9 @@
+D:\Bachelorarbeit_MM\GeometrischeAlgorithmen\GeometrischeAlgorithmen\bin\Release\GeometrischeAlgorithmen.exe
+D:\Bachelorarbeit_MM\GeometrischeAlgorithmen\GeometrischeAlgorithmen\bin\Release\GeometrischeAlgorithmen.pdb
+D:\Bachelorarbeit_MM\GeometrischeAlgorithmen\GeometrischeAlgorithmen\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Bachelorarbeit_MM\GeometrischeAlgorithmen\GeometrischeAlgorithmen\obj\x86\Release\GeometrischeAlgorithmen.Form1.resources
+D:\Bachelorarbeit_MM\GeometrischeAlgorithmen\GeometrischeAlgorithmen\obj\x86\Release\GeometrischeAlgorithmen.Properties.Resources.resources
+D:\Bachelorarbeit_MM\GeometrischeAlgorithmen\GeometrischeAlgorithmen\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Bachelorarbeit_MM\GeometrischeAlgorithmen\GeometrischeAlgorithmen\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Bachelorarbeit_MM\GeometrischeAlgorithmen\GeometrischeAlgorithmen\obj\x86\Release\GeometrischeAlgorithmen.exe
+D:\Bachelorarbeit_MM\GeometrischeAlgorithmen\GeometrischeAlgorithmen\obj\x86\Release\GeometrischeAlgorithmen.pdb
