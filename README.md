@@ -10,8 +10,8 @@ Algorithmen für zweidimensionale geometrische Probleme:
 	<li>Convex Hull Algorithmus
 	<li>Punkt in Polygon Algorithmus
 	<li>2D-Suchbaum
-<\ul>
+</ul>
 
-
+<BR/>
 <img src="images/image1.png" width="650">
 <BR/>
